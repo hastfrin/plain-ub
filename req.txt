@@ -1,0 +1,12 @@
+# Código modelo (boilerplate) para o UB
+# git+https://github.com/hastfrin/ub-core.git
+# movido para scripts/install_ub_core.sh
+
+yt-dlp>=2024.5.27
+pillow
+openai
+
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+google-genai
